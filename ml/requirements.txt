@@ -1,0 +1,11 @@
+openai
+scikit-learn
+pandas
+numpy
+torch
+faiss-cpu
+transformers
+sqlalchemy
+psycopg2
+mlflow
+prometheus-client
